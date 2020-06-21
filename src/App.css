@@ -74,12 +74,12 @@ h4 {
 }
 
 .money.plus {
-  color: #b6960a;
+  color: #08f728;
   font-weight: bold;
 }
 
 .money.minus {
-  color: #2da3ad;
+  color: #f80a2a;
   font-weight: bold;
 }
 
@@ -136,29 +136,29 @@ input[type='number'] {
 }
 
 .list li.plus {
-  border-right: 5px solid #b6960a;
+  border-right: 5px solid #21f705;
 }
 
 .list li.plus:hover {
-  border-right: 5px solid #b6960a;
-  background-color: #b6960a;
+  border-right: 5px solid #21f705;
+  background-color: #21f705;
   color: #f7f7f7
 }
 
 .list li.minus {
-  border-right: 5px solid #2da3ad;
+  border-right: 5px solid #f50606;
 }
 
 .list li.minus:hover {
-  border-right: 5px solid #2da3ad;
-  background-color: #2da3ad;
+  border-right: 5px solid #f50606;
+  background-color: #f50606;
   color: #f7f7f7
 }
 
 
 .delete-btn {
   cursor: pointer;
-  background-color: #8a6a66;
+  background-color: #21f705;
   border: 0;
   color: #fff;
   font-size: 20px;
