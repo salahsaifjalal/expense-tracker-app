@@ -48,7 +48,7 @@ export const AddTransaction = () => {
                             id="transactionamount"
                             value={transactionAmount}
                             onChange={(e) => setTransactionAmount(e.target.value)}
-                            placeholder="- value for Expense and + value for Income"
+                            placeholder="- value for Expense & + value for Income"
                             required="required"
                     />
                 </div>
